@@ -1,1 +1,1 @@
-BASIC React & Tailwind Assesment
+BASIC React & Tailwind Assessment
