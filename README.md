@@ -1,2 +1,1 @@
-# PopularHotelSection
-A basic React and Tailwind Assessment😊
+BASIC React & Tailwind Assesment

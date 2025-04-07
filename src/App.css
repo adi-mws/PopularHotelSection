@@ -1,0 +1,14 @@
+@import "tailwindcss";
+/* I had used global colors for simplicity in the code */
+@theme {
+    --color-background: rgba(254, 254, 227, 1);
+    --color-primary: #C91F65; /* main pink color */
+    --color-tcolor: #333333; /* main pink color */
+    --color-bcolor: #C3D59B; /* border color */
+    --color-link-blue: #1060EB; /* link blue color */
+    --color-dark-gray: #636363;  /* dark gray text color */
+
+    --font-primary: "Trajan Pro", "sans-serif";
+    --font-secondary: "Candara", "sans-serif";
+    --text-2xs: 10px;
+}
